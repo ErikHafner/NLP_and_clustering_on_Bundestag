@@ -3,6 +3,6 @@ NLP topic modeling and unsupervised learning analysis on plenary discussion tran
 
 [Blog Post](https://www.google.com)
 
-[Tableau Dashboard (English)](https://www.google.com)
+[Tableau Dashboard (English)](https://public.tableau.com/profile/erik.hafner7972#!/vizhome/DeutscherBundestagWhoareourRepresentatives/Bundestag_final)
 
-[Tableau Dashboard (German)](https://www.google.com)
+[Tableau Dashboard (German)](https://public.tableau.com/profile/erik.hafner7972#!/vizhome/DeutscherBundestagWersindunsereVolksvertreter/Bundestag_final)
